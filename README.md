@@ -3,7 +3,7 @@ Bad Apple in Minecraft with signs using sprites
 
 ## Note: this has currently only been tested to work on linux.
 
-- To use this first download BadApple.mp4, ImageExtract.py, and SignGenerator.py.
+- To use this first download BadApple.mp4, signs.zip, ImageExtract.py, and SignGenerator.py.
 - Execute ImageExtract.py in the same directory as BadApple.mp4 and it should create a directory called "data" with each individual frame from the video.
 - Extract signs.zip and place it into the datapacks directory of the world you want to use it in.
 - Execute SignGenerator.py and give the paths to the functions section of the datapack directory (the one in your world's folder) as well as the path to the directory containing the frames (this should be the full path of the /data directory that we previously generated)
