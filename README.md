@@ -13,7 +13,7 @@ Bad Apple in Minecraft with signs using sprites
 
 ## Important: this is badly coded so if you try to load all 6573 frames into the datapack it will likely freeze/crash your game. I found loading 2000 at a time was enough to get a decent (although slow) fps
 
-I'm new to programming in general so this program leaves much to be desired...
+I will improve it! Later!
 This is mainly a proof of concept project for fun, probably not going to expand it much.
 
 But if I do:
