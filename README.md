@@ -21,3 +21,4 @@ But if I do:
 - error correction for file already exists
 - background
 - optimization(!!)
+- port over to maybe work with all video files like the other project I did that one time that I never finished
